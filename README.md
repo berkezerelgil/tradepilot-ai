@@ -95,3 +95,4 @@ Browser → Next.js BFF (/api/health) → lib/api.ts → FastAPI (/api/v1/health
 ```
 
 If the backend is stopped, the dashboard degrades gracefully and shows a **"Backend offline"** badge instead of crashing.
+
